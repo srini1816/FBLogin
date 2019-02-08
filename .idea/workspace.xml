@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fc462b3-b99c-457c-80ac-a6aa70cd03a1" name="Default Changelist" comment="" />
+    <list default="true" id="0fc462b3-b99c-457c-80ac-a6aa70cd03a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FBtest/FBLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FBtest/FBLog.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,39 +16,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FBLogin$Unnamed__2_.ic" NAME="Unnamed (2) Coverage Results" MODIFIED="1547754167120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/FBLogin$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1547562333313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1173">
-              <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FBLog.java">
+        <entry file="file://$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FbStepDef.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/CapScreenSht.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,12 +72,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/FBtest/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FBtest/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/FBtest/FBLog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FBtest/FbLoginpage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utilities/CapScreenSht.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FBtest/FbStepDef.java" />
+        <option value="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" />
       </list>
     </option>
   </component>
@@ -78,6 +106,9 @@
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -124,6 +155,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="FBtest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FBLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -133,7 +177,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547563517976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549056241574" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\srini\IdeaProjects\FBLogin\src" />
+      <recent name="C:\Users\srini\IdeaProjects\FBLogin\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\srini\IdeaProjects\FBLogin\src\test\java\Utilities" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +202,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber java.Scenario: Facebook open">
+    <configuration name="FBLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FBtest.FBLog" />
+      <module name="FBLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FBtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: FBLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" />
+      <option name="GLUE" value="FBtest" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="FBLogin" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: FBLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Facebook open" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature" />
+      <option name="GLUE" value="FBtest" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="FBLogin" />
+      <option name="NAME_FILTER" value="^Facebook open$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Facebook open$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Facebook open" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="FILE_PATH" value="C:\Users\srini\IdeaProjects\FBLogin\src\test\FBFeatures\FBLogin.feature" />
+      <option name="GLUE" value="FBtest" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="FBLogin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="FILE_PATH" value="C:\Users\srini\IdeaProjects\FBLogin\src\test\FBFeatures\FBLogin.feature" />
+      <option name="GLUE" value="FBtest" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="FBLogin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="FILE_PATH" value="C:\Users\srini\IdeaProjects\FBLogin\src\test\FBFeatures\FBLogin.feature" />
       <option name="GLUE" value="FBTest" />
@@ -157,6 +280,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.FBLog" />
+      <item itemvalue="Cucumber java.Unnamed (1)" />
+      <item itemvalue="Cucumber java.Unnamed (2)" />
+      <item itemvalue="Cucumber java.Unnamed" />
+      <item itemvalue="Cucumber java.Feature: FBLogin" />
+      <item itemvalue="Cucumber java.Scenario: Facebook open" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Facebook open" />
+        <item itemvalue="Cucumber java.Feature: FBLogin" />
+        <item itemvalue="Application.FBLog" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -172,91 +310,143 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2019.01.15 at 14h 29m 43s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.01.28 at 21h 02m 55s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 31m 56s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.01.28 at 21h 03m 25s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 32m 27s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 20h 55m 34s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 33m 20s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 20h 57m 16s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 35m 12s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 04m 37s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 35m 22s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 08m 55s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 37m 42s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 11m 53s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 38m 19s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 16m 28s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2019.01.15 at 14h 39m 30s.xml">
-      <configuration name="Unnamed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 20m 45s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Facebook_open - 2019.02.01 at 21h 23m 20s.xml">
+      <configuration name="Scenario: Facebook open" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23071104" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31423897" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/FBtest/FbStepDef.java</url>
+          <line>16</line>
+          <properties class="FBtest.FbStepDef" method="i_initiate_the_chrome_browser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/../FbPOM/pom.xml">
+      <expanded value="true" />
+    </buildFile>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/Hooks.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FBLog.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FbLoginpage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/TestRunner.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Timeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Screenshotsabs.png" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
-          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+          <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/CapScreenSht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FbStepDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/FBFeatures/FBLogin.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FBtest/FBLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
